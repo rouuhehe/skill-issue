@@ -40,7 +40,7 @@ def get_random_response(content):
 
     last_content = content
 
-print("starting daemon...")
+print("starting...")
 
 while True:
     lowered = pc.paste().lower()
